@@ -8,6 +8,6 @@
 ## 6. Com o ambiente virtual ativo digite: python3 {endereço completo do executável}, ex: python3 /home/user/Downloads/Flop-Bird/Main.py. Para executar o código principal do jogo.
 
 # COMANDOS:
-## Use a tecla  <img src="https://imgs.search.brave.com/lGeBCdoo0pOigKiVnEnNy8qcduYDBqQwikvGKUeqqpY/rs:fit:626:626:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5mcmVlcGlrLmNv/bS9pY29uZXMtZ3Jh/dGlzL3RlY2xhLWRv/LXRlY2xhZG8tc2V0/YS1wYXJhLWNpbWFf/MzE4LTQ4MDc3Lmpw/Zw" width=20px>  para jogar.
+## Use a tecla  <img src="https://imgs.search.brave.com/lGeBCdoo0pOigKiVnEnNy8qcduYDBqQwikvGKUeqqpY/rs:fit:626:626:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5mcmVlcGlrLmNv/bS9pY29uZXMtZ3Jh/dGlzL3RlY2xhLWRv/LXRlY2xhZG8tc2V0/YS1wYXJhLWNpbWFf/MzE4LTQ4MDc3Lmpw/Zw" width=30px>  para jogar.
 
 ## DIVIRTA-SE
